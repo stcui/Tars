@@ -1,3 +1,5 @@
+.DS_Store
+.vscode
 /java/core/.settings
 /java/core/.classpath
 /java/core/.project
